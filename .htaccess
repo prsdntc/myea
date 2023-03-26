@@ -1,0 +1,17 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^watch$ read.php [NC,QSA]
+RewriteRule ^home$ index.php [NC,QSA]
+RewriteRule ^aboutus$ about.php [NC,QSA]
+RewriteRule ^cookie$ cookie-policy.php [NC,QSA]
+RewriteRule ^contact$ contactourfirm.php [NC,QSA]
+RewriteRule ^verifyacc$ signin.php [NC,QSA]
+RewriteRule ^signin$ login.php [NC,QSA]
+RewriteRule ^signout$ logout.php [NC,QSA]
+
+RewriteRule ^result$ search.php [NC,QSA]
+
+
+
