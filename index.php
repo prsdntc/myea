@@ -13,7 +13,7 @@
         
         if(!isset($_SESSION['user']) && !isset($_SESSION['admin'])) {
         $conn = $pdo->open();
-        $stmt = $conn->prepare("SELECT * FROM articles WHERE publish='publish' ORDER BY date DESC LIMIT 6");
+        $stmt = $conn->prepare("SELECT * FROM articles WHERE publish='publish' ORDER BY date DESC LIMIT 3");
         $stmt->execute();
         
         
