@@ -1,10 +1,6 @@
 
 <?php include 'inc/header.php'; ?>
-<div class="w3-container">
-    <div id="loader" ></div>
-</div>
 
-<div style="background-color: white;display:none;" id='myDiv'>
 <div class="w3-content" style="max-width:1200px;margin-top: 35px;">
     
     <div class="w3-row-padding  " style="margin-bottom: 15px;padding-top:20px;">
