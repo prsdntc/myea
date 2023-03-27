@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="146.59091mm"
+   height="191.63705mm"
+   viewBox="0 0 146.59091 191.63705"
+   version="1.1"
+   id="svg2992"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="signedupat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2994"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="0.28094797"
+     inkscape:cx="564.1614"
+     inkscape:cy="446.70193"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2989" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(40.344663,-63.26879)">
+    <path
+       id="path3075"
+       style="fill:#aaffcc;stroke:none;stroke-width:2"
+       d="m 114.90234,239.14844 c -91.729398,1.4881 -164.884459,77.05575 -163.396481,168.78515 1.487037,91.72939 77.053804,164.88532 168.783201,163.39844 91.73017,-1.48703 164.88641,-77.055 163.39844,-168.78515 -1.48703,-91.73017 -77.055,-164.88642 -168.78516,-163.39844 z m -3.91992,336.06445 c -6.73613,0.0151 -13.405236,0.26537 -19.984373,0.75977 -88.7708297,6.6695 -183.218655,70.48167 -219.857427,151.61328 -27.37021,60.60771 -43.3477,183.8966 23.62891,198.09961 234.14599,49.65275 234.3386,50.68019 457.15039,0.8789 65.89042,-14.72738 57.94821,-149.53475 23.7207,-211.77929 -1.05016,-1.90979 -2.17358,-3.78322 -3.28906,-5.66016 h -60.89062 v 87.46052 H 247.28125 V 709.125 h -87.46052 v -64.17969 h 87.46052 v -40.12109 c -43.5081,-19.24955 -91.36948,-29.70961 -136.29883,-29.61133 z m 200.47852,67.21875 v 2.51367 h 3.26562 c -1.07923,-0.84694 -2.17172,-1.68059 -3.26562,-2.51367 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="cccccccsssscccccccccccccc" />
+    <path
+       id="path5384"
+       style="fill:#93ac93;stroke:none;stroke-width:0.290025"
+       d="m 66.194669,148.50018 v 22.97423 H 43.182152 v 15.31597 h 23.012517 v 22.97423 H 81.53662 v -22.97423 h 23.01279 V 171.47441 H 81.53662 v -22.97423 z" />
+  </g>
+</svg>

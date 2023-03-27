@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="490.75696"
+   height="229.39746"
+   viewBox="0 0 129.84612 60.694744"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="mainheaderlogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     borderlayer="true"
+     showborder="false"
+     inkscape:zoom="0.64"
+     inkscape:cx="188.28125"
+     inkscape:cy="-8.59375"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3509"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#13759f;stop-opacity:1;"
+         offset="0"
+         id="stop3507" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14758">
+      <path
+         sodipodi:type="star"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path14760"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="-129.46536"
+         sodipodi:cy="-154.16107"
+         sodipodi:r1="38.921635"
+         sodipodi:r2="19.460819"
+         sodipodi:arg1="0.78539816"
+         sodipodi:arg2="1.4137167"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -101.94361,-126.63932 -24.47741,-8.30053 -20.71439,15.45821 0.33033,-25.8444 -21.10273,-14.92372 24.68157,-7.67219 7.67219,-24.68157 14.92371,21.10273 25.844408,-0.33033 -15.458208,20.71439 z"
+         inkscape:transform-center-x="1.8815057"
+         inkscape:transform-center-y="-1.8815054" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15076">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -773.64167,83.079167 H -462.4832 V -242.46691 h -351.72666 z"
+         id="path15078" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16243">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.622px;line-height:1.25;font-family:'Airstrike Bold 3D';-inkscape-font-specification:'Airstrike Bold 3D, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.54055"
+         x="17962.438"
+         y="-3309.3708"
+         id="text16247"><tspan
+           sodipodi:role="line"
+           id="tspan16245"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.622px;font-family:'Airstrike Bold 3D';-inkscape-font-specification:'Airstrike Bold 3D, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:3.54055"
+           x="17962.438"
+           y="-3309.3708">ER</tspan></text>
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Roughen"
+       id="filter11622"
+       x="-0.00085967145"
+       y="-0.00079383358"
+       width="1.0017194"
+       height="1.0015877">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         seed="360"
+         baseFrequency="10 10"
+         result="turbulence"
+         id="feTurbulence11618" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="turbulence"
+         scale="48.2036"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         id="feDisplacementMap11620"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11642" />
+      <feTurbulence
+         id="feTurbulence11644"
+         type="turbulence"
+         numOctaves="5"
+         seed="360"
+         baseFrequency="10 10"
+         result="turbulence" />
+      <feDisplacementMap
+         in2="turbulence"
+         id="feDisplacementMap11646"
+         in="fbSourceGraphic"
+         scale="48.2036"
+         yChannelSelector="G"
+         xChannelSelector="R" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28206.091,2220.819)">
+    <g
+       id="g3702">
+      <path
+         id="path6875"
+         style="fill:#2ca05a;fill-opacity:1;stroke:none;stroke-width:0.0811166"
+         d="m 28229.302,-2213.3338 a 6.8677219,7.485135 0 0 1 -6.868,7.4851 6.8677219,7.485135 0 0 1 -6.868,-7.4851 6.8677219,7.485135 0 0 1 6.868,-7.4852 6.8677219,7.485135 0 0 1 6.868,7.4852 z" />
+      <path
+         style="fill:#ffffff;stroke:none;stroke-width:0.0787296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 28242.516,-2216.4672 c 8.663,6.4007 -12.602,14.9404 -17.652,21.237 -3.214,4.0082 8.561,-1.2028 10.002,1.8712 3.826,8.1696 -17.722,15.8492 -13.175,23.6401 3.064,5.2488 19.096,-4.0654 18.217,0.077 -1.149,5.4086 -15.504,12.7121 -21.56,8.0073 -6.376,-4.9537 -3.564,-16.0147 2.521,-24.1091 6.085,-8.0944 -2.689,-4.0876 -2.26,-6.2666 6.9,-8.5056 18.563,-27.4782 23.907,-24.4573 z"
+         id="path6877"
+         sodipodi:nodetypes="csaasascc" />
+      <path
+         style="fill:#2ca05a;stroke:none;stroke-width:0.0787296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 28222.504,-2198.8665 c 0,0 -13.197,-16.034 -15.37,-15.0766 -2.174,0.9574 -0.975,13.1259 3.825,15.0573 10.425,4.1953 11.545,0.019 11.545,0.019 z"
+         id="path6879"
+         sodipodi:nodetypes="csscc" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.3314px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.708284"
+         x="28240.996"
+         y="-2172.1877"
+         id="text6883"><tspan
+           sodipodi:role="line"
+           id="tspan6881"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.3314px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.708284"
+           x="28240.996"
+           y="-2172.1877">astrand</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20.1534px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.503838"
+         x="28248.088"
+         y="-2194.6792"
+         id="text6887"><tspan
+           sodipodi:role="line"
+           id="tspan6885"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20.1534px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.503838"
+           x="28248.088"
+           y="-2194.6792">My</tspan></text>
+    </g>
+  </g>
+</svg>

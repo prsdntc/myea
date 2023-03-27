@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="174.24614mm"
+   height="174.24614mm"
+   viewBox="0 0 174.24614 174.24614"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="loginiconpic.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="0.47215208"
+     inkscape:cx="157.78814"
+     inkscape:cy="255.21438"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2173">
+      <path
+         id="path2175"
+         style="opacity:0.205;fill:#4d4d4d;fill-rule:evenodd;stroke-width:0.264583"
+         d="M 176.51885,133.36981 A 86.858491,86.858491 0 0 1 89.660362,220.2283 86.858491,86.858491 0 0 1 2.8018724,133.36981 86.858491,86.858491 0 0 1 89.660362,46.511321 86.858491,86.858491 0 0 1 176.51885,133.36981 Z" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-98.318199,-0.29579665)">
+    <path
+       id="path2169"
+       style="opacity:1;fill:#afe9af;fill-rule:evenodd;stroke:#a8a8a8;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 272.29976,87.418868 A 86.85849,86.85849 0 0 1 185.44127,174.27736 86.85849,86.85849 0 0 1 98.582782,87.418868 86.85849,86.85849 0 0 1 185.44127,0.56038 86.85849,86.85849 0 0 1 272.29976,87.418868 Z" />
+    <g
+       id="g2080"
+       inkscape:export-filename="C:\xampp\htdocs\My Eastrand\img\loginiconpic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       clip-path="url(#clipPath2173)"
+       transform="translate(96.388156,-45.95094)"
+       style="fill:#ffffff">
+      <ellipse
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.319778"
+         id="path846"
+         cx="89.380203"
+         cy="117.11887"
+         rx="28.299057"
+         ry="31.381134" />
+      <path
+         id="ellipse928"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.580731"
+         d="m 159.14718,190.87253 c 14.67706,20.00914 -31.36119,41.81216 -70.047169,41.81216 -38.685984,0 -85.039917,-21.94793 -70.047172,-41.81216 31.381133,-41.57759 31.361188,-41.81217 70.047172,-41.81217 38.685979,0 39.226419,-0.20556 70.047169,41.81217 z"
+         sodipodi:nodetypes="sssss" />
+    </g>
+  </g>
+</svg>
