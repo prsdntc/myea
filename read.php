@@ -2,6 +2,7 @@
 include './inc/dbcon.php';
 session_start();
 
+//Get date on the post FUNCTION
 function get_time_ago($time){
     $time_diff = time() - $time;
     if ($time_diff < 1) {
@@ -54,7 +55,7 @@ catch(PDOException $e){
 
 
 if(($_GET['v']== '')){
-	header('location: home');
+	header('location: homep');
 }
 
 ?>
@@ -147,13 +148,22 @@ if(($_GET['v']== '')){
         <!--// Sidebar (hidden by default) -->
         
         <!--- header menu --->
-        <header class="header w3-card w3-top" id="myHeader" style="background-color: #1e2321;color: white;">
+        <header class="header w3-card w3-top" style="background-color: #1e2321;color: white;">
             <div class="w3-content" style="max-width: 1200px;">
                 <div class="w3-left " onclick="w3_open()"><span class="w3-button w3-round">☰</span>
                     
                     
-                    <img id="logoheader" class="" src="./img/My East Rand - Logo.png" alt="Header Navigation Logo">
+                    <img id="logoheader" class="w3-margin" src="./img/My East Rand - Logo.png" alt="Header Navigation Logo">
                 </div>
+                
+                <?php
+                if(!isset($_SESSION['user'])){ echo '<div class="header_login w3-right w3-button w3-margin w3-round">
+                                                     <b>Log In</b>
+                                                     </div>
+                                                     ';
+                                             }
+                ?>
+                
             </div>
         </header>
 
