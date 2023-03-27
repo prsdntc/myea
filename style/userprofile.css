@@ -1,0 +1,66 @@
+*{
+    font-family:  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;;
+}
+@font-face{
+    font-family: "Helvetica Neue";
+    src: url(./fonts/HelveticaNeue.ttf);
+} 
+
+body{
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+h1,h2,h3,h4,h5,h6 {font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;}
+.notifi .nbadge{
+    top: -10px;
+    right: -10px;
+    /*
+    padding: 5px 10px;*/
+    padding: 5px;
+    background-color: red;
+    color: white;
+}
+.nbadge{
+    border-radius: 50%;
+}
+.notificationdrop{
+    float: left;
+    overflow: hidden;
+}
+.notificationcontent{
+    z-index: 1;
+    display: none;
+    margin-top: 50px;
+    margin-left: 10px;
+    max-width: 250px;
+    width: 100%;
+    color: black;
+    position: absolute;
+    background-color: #f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.notificationdrop:hover .notificationcontent {
+  display: block;
+}
+.tooltip {
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    left: 105%;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}

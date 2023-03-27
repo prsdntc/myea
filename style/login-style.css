@@ -1,0 +1,85 @@
+.tab {
+                overflow: hidden;
+                border: 1px solid #ccc;
+                background-color: #f1f1f1;
+            }
+
+            /* Style the buttons inside the tab */
+            .tab button {
+                background-color: inherit;
+                float: left;
+                border: none;
+                outline: none;
+                cursor: pointer;
+                padding: 14px 16px;
+                transition: 0.3s;
+                font-size: 17px;
+            }
+
+            /* Change background color of buttons on hover */
+            .tab button:hover {
+                background-color: #ddd;
+            }
+
+            /* Create an active/current tablink class */
+            .tab button.active {
+                background-color: #ccc;
+            }
+
+            /* Style the tab content */
+            .tabcontent {
+                display: none;
+                border-top: none;
+            }
+            body{
+                
+            }
+            .mainlogin{
+                color:#444;
+                font-weight: 400;
+                background-color: #fff;
+            }
+            .bodyimage{
+                background-image: url('../diverse-community.jpg');
+                background-attachment:fixed;
+                background-size: cover;
+                background-repeat: no-repeat;
+                padding: 50px;
+                height: auto;
+                color: black;
+            }
+            .bodyimage a{
+                text-decoration: none;
+            }
+            .bodyimage .forgot-pass a{
+                color: dodgerblue;
+                font-weight: 400;
+            }
+            .bodyimage .forgot-pass a:hover{
+                text-decoration: underline;
+            }
+            .bodyimage>label{
+                color: #444;
+                font-weight: 500;
+                font-size: 14px;
+                display: block;
+            }
+            #createacc{
+                background-color:#1ea66d;
+                font-weight: 400;
+                color: white;
+            }
+            .separator{
+                display: flex;
+                align-items: center;
+                text-align: center;
+            }
+            .separator::before,.separator:after{
+                content: " ";
+                flex: 1;
+                border-bottom: 1px solid #ccc;
+            }
+            .separator:not(:empty)::after {
+                margin-left:.25em;
+                margin-right:.25em;
+            }
