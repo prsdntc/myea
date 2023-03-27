@@ -35,7 +35,7 @@ if(empty($search) || !isset($search)){
 }
 
 /// Create connection
-$con = mysqli_connect("localhost", "u998494756_myeast", '$ZaN]Z@Y0', "u998494756_eastside");
+$con = mysqli_connect("localhost", "root", '', "u998494756_eastside");
 $sql = "SELECT * FROM `articles` WHERE heading like ('%". $search . "%') AND publish='publish'";
 
 
@@ -43,7 +43,7 @@ $run = mysqli_query($con, $sql);
 $foundnum = mysqli_num_rows($run);
 ?>
 <!DOCTYPE html>
-<html lang="en" style="font-family: Roboto, Arial, sans-serif;">
+<html lang="en">
     <head>
         <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' /><style>
         
@@ -76,7 +76,7 @@ $foundnum = mysqli_num_rows($run);
     </head>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     
-    <body style="background-color: white;">
+    <body>
         <!-- Sidebar (hidden by default) -->
         <nav class="w3-sidebar w3-bar-block w3-card w3-top w3-animate-left" style="display:none;z-index:2;width:30%;min-width:250px;background-color: #1e2321;color: white;" id="mySidebar">
             
@@ -93,7 +93,7 @@ $foundnum = mysqli_num_rows($run);
             }
             ?>
             
-            <a href="home" onclick="w3_close()" class="w3-bar-item  w3-button">
+            <a href="homep" onclick="w3_close()" class="w3-bar-item  w3-button">
                 <i class="fas fa-house"></i> &nbsp;&nbsp;Home
             </a>
             
@@ -122,8 +122,8 @@ $foundnum = mysqli_num_rows($run);
         <!--// Sidebar (hidden by default) -->
         
         <!--- header menu --->
-        <header class="header w3-card w3-top" id="myHeader" style="background-color: #1e2321;color: white;">
-            <div class="w3-content w3-animate-right" style="max-width: 1200px;">
+        <header class="header w3-card w3-top w3-padding" <?php //id="myHeader" ?> style="background-color: #1e2321;color: white;">
+            <div class="w3-content w3-animate-right">
                 <div class="w3-left " onclick="w3_open()"><span class="w3-button w3-round">☰</span>
                     
                     <img id="logoheader" class="" src="./img/My East Rand - Logo.png" alt="Header Navigation Logo">
