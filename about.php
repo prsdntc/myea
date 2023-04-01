@@ -78,9 +78,9 @@
         <!-- Facebook Share link ---->
         <meta property="og:title" content="My Eastrand - Explore The Eastrand">
         <meta property="og:url" content="http://www.myeastrand.com">
-        <meta property="og:image" content="./img/src.png">
+        <meta property="og:image" content="https://myeastrand.com/img/carnival-city.jpg">
         <meta property="og:type" content="website">
-        <meta property="og:description" content="My Eastrand - Connecting local communities">
+        <meta property="og:description" content="My Eastrand - Explore the East Rand">
         
         
         <!-- Twitter Share link --->
